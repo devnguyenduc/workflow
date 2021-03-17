@@ -1,0 +1,18 @@
+{
+  "simple_field" : [
+    {
+      "fieldId": "id",
+      "property" : "id",
+      "table" : "model_request",
+      "dataGrid" : {
+        "label" : "ID",
+        "visible" : true
+      },
+      "createForm" : {
+        "visible" : true,
+        "type" : "input",
+        "hide" : false
+      }
+    }
+  ]
+}
